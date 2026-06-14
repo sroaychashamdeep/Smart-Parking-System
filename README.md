@@ -161,6 +161,7 @@ Smart-Parking-System/
 
 * Chashamdeep Sroay
 * Dhruv Singh Bhadauriya
+* Paras
 
 ---
 
